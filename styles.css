@@ -1,0 +1,15 @@
+header{
+    border-bottom: 1px groove black;
+
+}
+h1{
+    border-bottom:  double black;
+
+}
+article{
+    border-bottom:  ridge black;
+
+}
+footer{
+    border-bottom:  dotted black;
+
